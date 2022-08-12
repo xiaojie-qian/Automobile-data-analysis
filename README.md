@@ -1,5 +1,7 @@
 # Automobile-data-analysis: 1985 Auto Imports Database
 
+## Process descripton: Import data -> clean data -> Explore data (descriptive and visulization) -> modeling data
+
 ## Source Information:
    - Creator/Donor: Jeffrey C. Schlimmer (Jeffrey.Schlimmer@a.gp.cs.cmu.edu)
    - Date: 19 May 1987
